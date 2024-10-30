@@ -1,0 +1,2 @@
+# pStatic
+.rand
